@@ -1,6 +1,8 @@
-# ALX Simple Shell Team Project
+# ALX Simple Shell Team Projec
 
 > This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. Our shell shall be called **hsh**
+
+#0x16. C - Simple Shell: Is the second Project done during Full Stack Software Engineering studies at ALX Africa.
 
 ## Project was completed using
 
@@ -320,5 +322,5 @@ $
 
 ## Authors ##
 
-👤 **Miguel Florian**
+👤 **Miguel Florian & Joshua Ajiferuke**
 
